@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
-<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. <br/>Actualmente me encuentro finalizando un bootcamp en el cual pude plasmar las tecnologías allí aprendidas mediante la realización de un proyecto individual y otro grupal. <br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize y Prisma.</h3>
+<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. <br/><br/>Actualmente me encuentro finalizando un bootcamp en el cual pude plasmar las tecnologías allí aprendidas mediante la realización de un proyecto individual y otro grupal. <br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize y Prisma.</h3>
 <br/>
 <br/>
 <br/>
