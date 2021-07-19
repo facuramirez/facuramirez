@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
+<h3 align="center">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Actualmente me encuentro finalizando un bootcamp en el cual pude plasmar las tecnologías allí aprendidas mediante la realización de un proyecto individual y otro grupal. Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Prisma.</h3>
+
+PARA MAS INFORMACIÓN, CONTACTAME !
+◼ WhatsApp: +543764227220
+◼ Linkedin: https://www.linkedin.com/in/facundoramirezok/
+◼ Email: facundoramirez089@gmail.com
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
 <!--
 **facuramirez/facuramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
