@@ -1,14 +1,10 @@
 <h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
 <h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize y Prisma.<br/><br/>Actualmente me encuentro en búsqueda laboral activa. Si estas interesado en incorporar un desarrollador que ama su trabajo, no dudes en contactarme. Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
 <br/>
-<br/>
-<br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
 ◼ Linkedin: https://www.linkedin.com/in/facundoramirezok/ <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
-<br/>
-<br/>
 <br/>
 
 <h3 align="center">Lenguajes:</h3>
@@ -23,7 +19,7 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </p>
-
+<br/>
 <h2>Imágenes de algunos proyectos</h2>
 <br/>
 <h3>Pokemon App</h3>
