@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
-<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize y Prisma.<br/><br/>Actualmente me encuentro en búsqueda laboral activa. Si estas interesado en incorporar un desarrollador que ama su trabajo, no dudes en contactarme. Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
+<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Javascript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize y Prisma.<br/><br/>Actualmente me encuentro en búsqueda laboral activa. Si estas interesado en incorporar un desarrollador que ama su trabajo, no dudes en contactarme. Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
 <br/>
 <br/>
 <br/>
@@ -23,6 +23,20 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </p>
+
+<h2>Imágenes de algunos proyectos</h2>
+<br/>
+<h3>Pokemon App</h3>
+<a href="https://imgur.com/9uA64JT"><img src="https://i.imgur.com/9uA64JT.png" title="source: imgur.com" /></a>
+<br/>
+<a href="https://imgur.com/RpXK040"><img src="https://i.imgur.com/RpXK040.png" title="source: imgur.com" /></a>
+<br/>
+https://github.com/facuramirez/webAppPokemon
+
+<h3>Weather App</h3>
+<a href="https://imgur.com/OeVReQ0"><img src="https://i.imgur.com/OeVReQ0.png" title="source: imgur.com" /></a>
+<br/>
+https://github.com/facuramirez/weatherApp
 
 <!--
 **facuramirez/facuramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
