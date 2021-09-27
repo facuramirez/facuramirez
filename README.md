@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
-<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgreSQL, Sequelize y Prisma.<br/><br/>Actualmente me encuentro en búsqueda laboral activa. Si estas interesado en incorporar un desarrollador que ama su trabajo, no dudes en contactarme. Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
+<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, PostgreSQL, Sequelize, Prisma, MongoDB, Mongoose.<br/><br/>Actualmente me encuentro en búsqueda laboral activa. Si estas interesado en incorporar un desarrollador que ama su trabajo, no dudes en contactarme. Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
@@ -17,7 +17,9 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://folderit.net/wp-content/uploads/2016/05/mongodb-java-spring.jpg" alt="postgresql" width="40" height="40"/> </a> 
   </p>
 <br/>
 <h2>Imágenes de algunos proyectos</h2>
