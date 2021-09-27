@@ -18,8 +18,6 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="#" target="_blank"> <img src="https://s3.eu-west-1.amazonaws.com/cdn.spydeals.nl/images/uploads/1R32KCnSJo13EOy0uIvutQ2AlTfRTZeAMVxo2Nem.png" alt="postgresql" width="40" height="40"/> </a> 
   </p>
 <br/>
 <h2>Imágenes de algunos proyectos</h2>
