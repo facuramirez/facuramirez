@@ -23,14 +23,14 @@
 <h2>Imágenes de algunos proyectos</h2>
 <br/>
 <h3>Pokemon App</h3>
-<a href="https://imgur.com/9uA64JT"><img src="https://i.imgur.com/9uA64JT.png" title="source: imgur.com" /></a>
+<a><img src="https://i.imgur.com/9uA64JT.png" title="source: imgur.com" /></a>
 <br/>
 <a><img src="https://i.imgur.com/RpXK040.png" title="source: imgur.com" /></a>
 <br/>
 https://github.com/facuramirez/webAppPokemon
 
 <h3>Weather App</h3>
-<a href="https://imgur.com/OeVReQ0"><img src="https://i.imgur.com/OeVReQ0.png" title="source: imgur.com" /></a>
+<a><img src="https://i.imgur.com/OeVReQ0.png" title="source: imgur.com" /></a>
 <br/>
 https://github.com/facuramirez/weatherApp
 
