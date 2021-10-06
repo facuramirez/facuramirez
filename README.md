@@ -25,7 +25,7 @@
 <h3>Pokemon App</h3>
 <a href="https://imgur.com/9uA64JT"><img src="https://i.imgur.com/9uA64JT.png" title="source: imgur.com" /></a>
 <br/>
-<a href="https://imgur.com/RpXK040"><img src="https://i.imgur.com/RpXK040.png" title="source: imgur.com" /></a>
+<a/></a>
 <br/>
 https://github.com/facuramirez/webAppPokemon
 
