@@ -22,6 +22,11 @@
 <br/>
 <h2>Imágenes de algunos proyectos</h2>
 <br/>
+<h3>AltaBirra App</h3>
+<img src="https://i.imgur.com/Tr5WRzI.png" />
+<br/>
+https://github.com/LeaMarco/AltaBirra
+
 <h3>Pokemon App</h3>
 <img src="https://i.imgur.com/9uA64JT.png" />
 <br/>
