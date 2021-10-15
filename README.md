@@ -25,12 +25,12 @@
 <h3>Pokemon App</h3>
 <img src="https://i.imgur.com/9uA64JT.png" />
 <br/>
-<a><img src="https://i.imgur.com/RpXK040.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/RpXK040.png" />
 <br/>
 https://github.com/facuramirez/webAppPokemon
 
 <h3>Weather App</h3>
-<a><img src="https://i.imgur.com/OeVReQ0.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/OeVReQ0.png" />
 <br/>
 https://github.com/facuramirez/weatherApp
 
