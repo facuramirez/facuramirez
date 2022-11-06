@@ -26,13 +26,15 @@
 <h3>Citybest App</h3>
 <img src="https://i.imgur.com/oCFhE4x.png" />
 <br/>
-https://github.com/facuramirez/citybest-app
+https://citybest-app.vercel.app/
 
+<br/>
 <h3>Pokemon App</h3>
 <img src="https://i.imgur.com/0Fiifip.png" />
 <br/>
-https://github.com/facuramirez/pokemon_app
+https://pokemon-app-facu-dev.vercel.app/
 
+<br/>
 <h3>Weather App</h3>
 <img src="https://i.imgur.com/OeVReQ0.png" />
 <br/>
