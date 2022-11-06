@@ -27,14 +27,14 @@
 <img src="https://i.imgur.com/oCFhE4x.png" />
 <br/>
 https://citybest-app.vercel.app/
+<br/><br/>
 
-<br/>
 <h3>Pokemon App</h3>
 <img src="https://i.imgur.com/0Fiifip.png" />
 <br/>
 https://pokemon-app-facu-dev.vercel.app/
+<br/><br/>
 
-<br/>
 <h3>Weather App</h3>
 <img src="https://i.imgur.com/OeVReQ0.png" />
 <br/>
