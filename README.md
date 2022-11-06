@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
-<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, Frammer Motion, Material-UI, Ant-Design, React, Redux, Nextjs, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Sequelize, TypeORM, MongoDB, Mongoose, Docker.<br/><br/>Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
+<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, Frammer Motion, Material-UI, Ant-Design, React, Redux, Redux ToolKit, Nextjs, NodeJS, ExpressJS, NestJS, PostgreSQL, Sequelize, TypeORM, MongoDB, Mongoose, Docker, Git, Github.<br/><br/>Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
+◼ Portfolio: (proximamente)
 ◼ Linkedin: https://www.linkedin.com/in/facundoramirezok/ <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
 <br/>
@@ -22,34 +23,18 @@
 <br/>
 <h2>Imágenes de algunos proyectos</h2>
 <br/>
-<h3>AltaBirra App</h3>
-<img src="https://i.imgur.com/Tr5WRzI.png" />
+<h3>Citybest App</h3>
+<img src="https://i.imgur.com/oCFhE4x.png" />
 <br/>
-https://github.com/LeaMarco/AltaBirra
+https://github.com/facuramirez/citybest-app
 
 <h3>Pokemon App</h3>
-<img src="https://i.imgur.com/9uA64JT.png" />
+<img src="https://i.imgur.com/0Fiifip.png" />
 <br/>
-<img src="https://i.imgur.com/RpXK040.png" />
-<br/>
-https://github.com/facuramirez/webAppPokemon
+https://github.com/facuramirez/pokemon_app
 
 <h3>Weather App</h3>
 <img src="https://i.imgur.com/OeVReQ0.png" />
 <br/>
 https://github.com/facuramirez/weatherApp
 
-<!--
-**facuramirez/facuramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
