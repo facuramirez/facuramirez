@@ -23,6 +23,7 @@
 <br/>
 <h2>Imágenes de algunos proyectos</h2>
 <br/>
+
 <h3>Citybest App</h3>
 <img src="https://i.imgur.com/oCFhE4x.png" />
 <br/>
@@ -36,7 +37,7 @@ https://pokemon-app-facu-dev.vercel.app/
 <br/><br/>
 
 <h3>Weather App</h3>
-<img src="https://i.imgur.com/OeVReQ0.png" />
+<img src="https://i.imgur.com/1uq82U7.png" />
 <br/>
-https://github.com/facuramirez/weatherApp
+https://weather-app-facu-dev.vercel.app/
 
