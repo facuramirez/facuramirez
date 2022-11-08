@@ -44,4 +44,4 @@ https://weather-app-facu-dev.vercel.app/
 <h3>Calculator App</h3>
 <img src="https://i.imgur.com/CV5urI7.png" />
 <br/>
-https://calculator-app-facu-dev.vercel.app/
+<strong>Link: <strong/>https://calculator-app-facu-dev.vercel.app/
