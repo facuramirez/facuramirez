@@ -27,19 +27,19 @@
 <h3>Citybest App</h3>
 <img src="https://i.imgur.com/oCFhE4x.png" />
 <br/>
-https://citybest-app.vercel.app/
+<strong>Link: <strong/>https://citybest-app.vercel.app/
 <br/><br/>
 
 <h3>Pokemon App</h3>
 <img src="https://i.imgur.com/0Fiifip.png" />
 <br/>
-https://pokemon-app-facu-dev.vercel.app/
+<strong>Link: <strong/>https://pokemon-app-facu-dev.vercel.app/
 <br/><br/>
 
 <h3>Weather App</h3>
 <img src="https://i.imgur.com/1uq82U7.png" />
 <br/>
-https://weather-app-facu-dev.vercel.app/
+<strong>Link: <strong/>https://weather-app-facu-dev.vercel.app/
 
 <h3>Calculator App</h3>
 <img src="https://i.imgur.com/CV5urI7.png" />
