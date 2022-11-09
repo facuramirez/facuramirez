@@ -3,8 +3,8 @@
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
-◼ Portfolio: (proximamente) <br/>
-◼ Linkedin: https://www.linkedin.com/in/facundoramirezok/ <br/>
+◼ Web: (proximamente) <br/>
+◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok/</a> <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
 <br/>
 
