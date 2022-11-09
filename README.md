@@ -1,10 +1,10 @@
-<h1 align="center">Hola 👋, Soy Facundo Ramírez</h1>
+<h1 align="center">Hola! Soy Facundo Ramírez</h1>
 <h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, Frammer Motion, Material-UI, Ant-Design, React, Redux, Redux ToolKit, Nextjs, NodeJS, ExpressJS, NestJS, PostgreSQL, Sequelize, TypeORM, MongoDB, Mongoose, Docker, Git, Github.<br/><br/>Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
 ◼ Web: (proximamente) <br/>
-◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok/</a> <br/>
+◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
 <br/>
 
