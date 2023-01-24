@@ -3,7 +3,7 @@
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
-◼ Web: (proximamente) <br/>
+◼ Web: <a href="https://facundoramirez.vercel.app/" target="_blank">Facundo Ramírez Web</a> <br/>
 ◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
 <br/>
