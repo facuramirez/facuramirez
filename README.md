@@ -1,9 +1,9 @@
 <h1 align="center">Hola! Soy Facundo Ramírez</h1>
-<h3 align="justify">Un desarrollador apasionado del mundo IT con mucha curiosidad y ganas de aprender las últimas tecnologías utilizadas en el mercado, mejorando así día a día mis habilidades técnicas. Me gusta el trabajo en equipo teniendo una muy buena capacidad de adaptación, factor que considero fundamental en este rubro para el desarrollo de los proyectos que se me presenten.<br/><br/>Las tecnologías con las que cuento experiencia son las siguientes: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, Frammer Motion, Material-UI, Ant-Design, React, Redux, Redux ToolKit, Nextjs, NodeJS, ExpressJS, NestJS, PostgreSQL, Sequelize, TypeORM, MongoDB, Mongoose, Docker, Git, Github.<br/><br/>Aquí abajo te dejo mis datos y un resumen de algunos proyectos realizados.</h3>
+<h3 align="justify">Desarrollador Full Stack con mas de 4 años de experiencia. Me enfoco en la optimización de procesos y escalabilidad de aplicaciones. Trabajé en varios proyectos, garantizando siempre la calidad y robustez de las soluciones. Me apasiona el aprendizaje continuo y la docencia en programación. Valoro el trabajo en equipo como clave para desarrollar productos de alta calidad. </h3>
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
-◼ Web: <a href="https://facundoramirez.vercel.app/" target="_blank">Facundo Ramírez Web</a> <br/>
+◼ Web: <a href="https://facudev.netlify.app/" target="_blank">Facundo Ramírez Web</a> <br/>
 ◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
 ◼ Email: facundoramirez089@gmail.com <br/>
 <br/>
@@ -21,27 +21,3 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   </p>
 <br/>
-<h2>Imágenes de algunos proyectos</h2>
-<br/>
-
-<h3>Citybest App</h3>
-<img src="https://i.imgur.com/oCFhE4x.png" />
-<br/>
-<strong>Link: <strong/>https://citybest-app.vercel.app/
-<br/><br/>
-
-<h3>Pokemon App</h3>
-<img src="https://i.imgur.com/0Fiifip.png" />
-<br/>
-<strong>Link: <strong/>https://pokemon-app-facu-dev.vercel.app/
-<br/><br/>
-
-<h3>Weather App</h3>
-<img src="https://i.imgur.com/1uq82U7.png" />
-<br/>
-<strong>Link: <strong/>https://weather-app-facu-dev.vercel.app/
-
-<h3>Calculator App</h3>
-<img src="https://i.imgur.com/CV5urI7.png" />
-<br/>
-<strong>Link: <strong/>https://calculator-app-facu-dev.vercel.app/
