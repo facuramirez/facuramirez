@@ -3,9 +3,9 @@
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
 ◼ WhatsApp: +543764227220 <br/>
-◼ Web: <a href="https://facudev.netlify.app/" target="_blank">Facundo Ramírez Web</a> <br/>
+◼ Web: <a href="https://facundoramirez.dev/" target="_blank">Facundo Ramírez Web</a> <br/>
 ◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
-◼ Email: facundoramirez089@gmail.com <br/>
+◼ Email: contacto@facundoramirez.dev <br/>
 <br/>
 
 <!-- <h3 align="center">Lenguajes:</h3> -->
