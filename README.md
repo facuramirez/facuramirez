@@ -5,6 +5,7 @@
 ◼ WhatsApp: +543764227220 <br/>
 ◼ Web: <a href="https://facundoramirez.dev/" target="_blank">Facundo Ramírez Web</a> <br/>
 ◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
+◼ Instagram: <a href="https://www.instagram.com/facudevok/" target="_blank">/facudevok</a> <br/>
 ◼ Email: contacto@facundoramirez.dev <br/>
 <br/>
 
