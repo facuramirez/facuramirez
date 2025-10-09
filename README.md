@@ -2,10 +2,10 @@
 <h3 align="justify">Desarrollador Full Stack con mas de 4 años de experiencia. Me enfoco en la optimización de procesos y escalabilidad de aplicaciones. Trabajé en varios proyectos, garantizando siempre la calidad y robustez de las soluciones. Me apasiona el aprendizaje continuo y la docencia en programación. Valoro el trabajo en equipo como clave para desarrollar productos de alta calidad. </h3>
 <br/>
 <h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
-◼ WhatsApp: +543764227220 <br/>
-◼ Web: <a href="https://facundoramirez.dev/" target="_blank">Facundo Ramírez Web</a> <br/>
 ◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
 ◼ Instagram: <a href="https://www.instagram.com/facudevok/" target="_blank">/facudevok</a> <br/>
+◼ Web: <a href="https://facundoramirez.dev/" target="_blank">Facundo Ramírez Web</a> <br/>
+◼ WhatsApp: +543764227220 <br/>
 ◼ Email: contacto@facundoramirez.dev <br/>
 <br/>
 
