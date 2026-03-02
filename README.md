@@ -1,24 +1,14 @@
-<h1 align="center">Hola! Soy Facundo Ramírez</h1>
-<h3 align="justify">Desarrollador Full Stack con mas de 4 años de experiencia. Me enfoco en la optimización de procesos y escalabilidad de aplicaciones. Trabajé en varios proyectos, garantizando siempre la calidad y robustez de las soluciones. Me apasiona el aprendizaje continuo y la docencia en programación. Valoro el trabajo en equipo como clave para desarrollar productos de alta calidad. </h3>
-<br/>
-<h4>PARA MAS INFORMACIÓN, CONTACTAME !</h4>
-◼ Linkedin: <a href="https://www.linkedin.com/in/facundoramirezok/" target="_blank">/facundoramirezok</a> <br/>
-◼ Instagram: <a href="https://www.instagram.com/facudevok/" target="_blank">/facudevok</a> <br/>
-◼ Web: <a href="https://facundoramirez.dev/" target="_blank">Facundo Ramírez Web</a> <br/>
-◼ WhatsApp: +543764227220 <br/>
-◼ Email: contacto@facundoramirez.dev <br/>
-<br/>
+# 💫 Sobre mí:
+Soy Facundo Ramírez, Desarrollador Full Stack con más de 5 años de experiencia en la construcción de aplicaciones web escalables y de<br>alto rendimiento utilizando JavaScript, TypeScript, React, Next.js y Node.js. Fuerte enfoque en arquitectura frontend, optimización de UX/UI e integración de APIs. Historial comprobado de mejora en la satisfacción de usuarios, reducción de deuda técnica y aceleración de entregas en equipos multidisciplinarios. Perfil orientado a producto, con experiencia en entornos colaborativos y metodologías ágiles.
 
-<!-- <h3 align="center">Lenguajes:</h3> -->
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  </p>
-<br/>
+
+## 🌐 Redes Sociales:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/facundoramirezok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/facudevok) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contacto@facundoramirez.dev)
+# 💻 Stack Tecnológico:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  
+# 👤 Información de Contacto
+- 👨‍💻 **Facundo Ramírez**
+- 📍 Córdoba, Argentina
+- 📱 WhatsApp: +54 3764 227220
+- 💼 LinkedIn: [facundoramirezok](https://www.linkedin.com/in/facundoramirezok/)
+- 📸 Instagram: [@facudevok](https://www.instagram.com/facudevok/)
