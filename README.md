@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Soy Facundo Ramírez, Desarrollador Full Stack con más de 5 años de experiencia en la construcción de aplicaciones web escalables y de<br>alto rendimiento utilizando JavaScript, TypeScript, React, Next.js y Node.js. Fuerte enfoque en arquitectura frontend, optimización de UX/UI e integración de APIs. Historial comprobado de mejora en la satisfacción de usuarios, reducción de deuda técnica y aceleración de entregas en equipos multidisciplinarios. Perfil orientado a producto, con experiencia en entornos colaborativos y metodologías ágiles.
+Soy Facundo Ramírez, Desarrollador Full Stack con más de 5 años de experiencia en la construcción de aplicaciones web escalables y de alto rendimiento utilizando JavaScript, TypeScript, React, Next.js y Node.js. Fuerte enfoque en arquitectura frontend, optimización de UX/UI e integración de APIs. Historial comprobado de mejora en la satisfacción de usuarios, reducción de deuda técnica y aceleración de entregas en equipos multidisciplinarios. Perfil orientado a producto, con experiencia en entornos colaborativos y metodologías ágiles.
 
 
 ## 🌐 Redes Sociales:
